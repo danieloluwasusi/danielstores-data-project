@@ -15,25 +15,26 @@
 # Analysis Process
 ## Data Collection & Preparation:
 
-### Sales, orders, profit, discount, and margin data were gathered and cleaned.
+### 1. Sales, orders, profit, discount, and margin data were gathered and cleaned.
 
-### Year-over-year data was structured to enable comparison.
+### 2. Year-over-year data was structured to enable comparison.
 
 ### Data Analysis Using Power BI:
 
-### Created interactive dashboards to monitor key performance indicators (KPIs).
+### 1. Created interactive dashboards to monitor key performance indicators (KPIs).
 
-### Analyzed revenue, profit, orders, profit margins, and discounts across time.
+### 2. Analyzed revenue, profit, orders, profit margins, and discounts across time.
 
-### Conducted segment-wise and country-wise comparisons.
+### 3. Conducted segment-wise and country-wise comparisons.
 
 ## Visualization:
 
-### Used matrix visuals, bar charts, and line charts to visualize trends.
+### 1. Used matrix visuals, bar charts, and line charts to visualize trends.
 
 # Dataset Used
+# Link to Interactive dashboard file
+#  Dashboard: ![Screenshot 2025-04-12 181732](https://github.com/user-attachments/assets/d3d65722-7971-4704-b08b-6157e8bd8cb9)
 
-# Interactive Dashboard
 
 # Insights Generated:
 ### 1. Massive Growth: Revenue increased by +249.46%, and profit rose by +235.58% compared to the prior year.
