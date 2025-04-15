@@ -31,8 +31,8 @@
 
 ### 1. Used matrix visuals, bar charts, and line charts to visualize trends.
 
-# Dataset Used
-# Link to Interactive dashboard file
+# Dataset Used:
+# Link to Interactive dashboard file: https://github.com/danieloluwasusi/danielstores-data-project/blob/main/daniel%20storess.pbix
 #  Dashboard: ![Screenshot 2025-04-12 181732](https://github.com/user-attachments/assets/d3d65722-7971-4704-b08b-6157e8bd8cb9)
 
 
