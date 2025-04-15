@@ -4,7 +4,7 @@
 ### This project involved performing a comprehensive financial analysis for Daniel Stores using Power BI. The primary goal was to examine year-over-year performance, understand revenue and profit drivers, and identify trends across countries, products, and customer segments. Data visualizations were leveraged to draw actionable business insights for strategic decision-making.
 
 # Project Objectives:
-### - To evaluate the financial performance of Daniel Stores compared to the previous year.
+### 1. To evaluate the financial performance of Daniel Stores compared to the previous year.
 
 ### 2. To identify top-performing products, countries, and customer segments.
 
